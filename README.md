@@ -1,6 +1,8 @@
 # Compare-multilang
 
-Very simple runtime compare for Java, Ruby, Python, Go, Node and C
+Very simple runtime compare for Java, Ruby, Python, Go, Node, C, Rust and Kotlin
+
+**Roadmap: Haskell, CommonList, Scala**
 
 ## Spreadsheet with results
 
@@ -14,6 +16,8 @@ Very simple runtime compare for Java, Ruby, Python, Go, Node and C
 - Go 1.6.2
 - Python 2.7.12
 - GCC 5.4.0
+- Kotlinc 1.1.2
+- Rustc 1.16.0
 
 ### Operative System & Hardware
 
