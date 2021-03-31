@@ -2,7 +2,7 @@
 
 Very simple runtime compare for Java, Ruby, Python, Go, Node, C, Rust and Kotlin
 
-**Roadmap: Haskell, CommonList, Scala**
+**Roadmap: Haskell, CommonList, Scala, Vala**
 
 ## Spreadsheet with results
 
